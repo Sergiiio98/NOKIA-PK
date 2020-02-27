@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+* gitIntro
+  master
+=======
+  gitIntro
+* master
+>>>>>>> Adding Branches file to version control
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
